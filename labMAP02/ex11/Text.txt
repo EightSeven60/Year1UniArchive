@@ -1,0 +1,2 @@
+Acesta este un text dat intr-un fisier.
+Sper ca merge. Sa nu mai stau iar 10 ore la asta.

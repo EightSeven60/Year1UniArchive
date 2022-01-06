@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C04CautareSecventialaGeneralizata", "C04CautareSecventialaGeneralizata\C04CautareSecventialaGeneralizata.vcxproj", "{6D2F9BFB-FF70-47B1-866F-F0637CBD5714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D2F9BFB-FF70-47B1-866F-F0637CBD5714}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6D2F9BFB-FF70-47B1-866F-F0637CBD5714}.Debug|Win32.Build.0 = Debug|Win32
+		{6D2F9BFB-FF70-47B1-866F-F0637CBD5714}.Release|Win32.ActiveCfg = Release|Win32
+		{6D2F9BFB-FF70-47B1-866F-F0637CBD5714}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

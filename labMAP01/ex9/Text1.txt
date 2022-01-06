@@ -1,0 +1,5 @@
+Salariati:
+Popescu Andrei 750
+Ionescu Alexandru 600
+Constantinescu Mircea 1125
+Stefanescu Ion 900

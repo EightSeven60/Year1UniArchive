@@ -1,0 +1,5 @@
+﻿4
+Popescu Andrei 1000
+Ionescu Alexandru 800
+Constantinescu Mircea 1500
+Stefanescu Ion 1200

@@ -1,0 +1,16 @@
+go up: 119
+go down: 115
+go left: 97
+go right: 100
+player icon: 3 //check note below before editing
+empty_space: 32
+rock_far: 176
+rock_close: 177
+rock: 178
+font_color_default: 4
+
+//from this line, the 3 colors are used to display rocks behind the player character
+//you may need to adjust accordingly if you choose to display a custom character color
+font_color_rock: 244
+font_color_rock_close: 116
+font_color_rock_far: 132
